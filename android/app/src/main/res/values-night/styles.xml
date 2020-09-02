@@ -1,0 +1,16 @@
+<resources>
+    <color name="white">#000000</color>
+    <color name="black">#ffffff</color>
+    <color name="nearBlack">#efefef</color>
+    <color name="lightGrey">#292929</color>
+    <color name="grey">#666666</color>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="android:textColor">@color/nearBlack</item>
+        <item name="android:windowBackground">@color/lightGrey</item>
+    </style>
+
+</resources>
